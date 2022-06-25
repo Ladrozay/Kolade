@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Kolade
-#### I am a Front End Web Developer
+# Hi there 👋, My name is Kolade
+## I am a Front End Web Developer
  I like to build professional, beautiful and responsive websites. I love working with HTML, CSS, JAVASCRIPT and Wordpress. You can my check out my social and freelance accounts below and also through my linktree here https://linktr.ee/dev_kolade
 
 Skills: 
